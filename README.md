@@ -1,2 +1,18 @@
-# mare
-my personal repository 
+hello git 
+git is a very popular version control solution
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
